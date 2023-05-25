@@ -47,7 +47,7 @@ header .animales {
     width: 100vw;
     height: 100%;
     max-width: 420px;
-    background-image: url(./img/BACK-TEMATICA.png);
+    background-image: url(img/BACK-TEMATICA.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: bottom;
@@ -255,7 +255,7 @@ main p {
     padding-bottom: 10px;
 }
 .end {
-    background-image: url(./img/madeira1.png);
+    background-image: url(img/madeira1.png);
     background-position: center;
     background-size: cover;
     padding: 30px;
@@ -326,7 +326,7 @@ footer img {
 
 @media (max-width: 600px) {
     header {
-        background-image: url(./img/BACKGROUND.png);
+        background-image: url(img/BACKGROUND.png);
         background-size:cover;
     }
     main {
@@ -345,7 +345,7 @@ footer img {
         display: none;
     }
     .segundo {
-        background-image: url(./img/Group.png);
+        background-image: url(img/Group.png);
         width: 100%;
     }
    
